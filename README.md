@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 ### Bikeshare Data Analysis
 Replace the Project Title
 
-### Description
+### Analyzing a NYC bikeshare service database
 Describe what your project is about and what it does
 
 ### Files used
