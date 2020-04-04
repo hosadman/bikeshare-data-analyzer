@@ -110,6 +110,7 @@ def station_stats(df):
     df['Routes'] = df['Start Station'] + ' - ' + df['End Station']
     print('The most common bike route is: {}'.format(df['Routes'].mode().values[0]))
 
+    print("\nThe amount of time taken")
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
@@ -156,6 +157,7 @@ def user_stats(df, city):
         print('The latest birth year for any user is: {}'.format(str(int(df['Birth Year'].max()))))
         print('The most common birth year for any user is: {}'.format(str(int(df['Birth Year'].mode().values[0]))))
     
+    print("\nThe amount of time taken")
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
     
