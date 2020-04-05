@@ -1,15 +1,11 @@
-### April 2, 2020
-Include the date you created this project and README file.
+### Bikeshare Data Analyzer
+This program explores the bikeshare service data of 3 different US cities - New York City, Chicago and Washington DC.
+It covers various filters, like a particular month or day of a week, or both or, showcase the raw data should the user
+choose to see so. Also, it shows the different user statistics and the station/route statistics for the cities. It also
+shows the time complexity for each of the following executions.
 
-### Bikeshare Data Analysis
-Replace the Project Title
+### Programming Languages Used
+Python and libraries including Pandas and NumPy.
 
-### Analyzing a NYC bikeshare service database
-Describe what your project is about and what it does
-
-### bikeshare.py file used
-Include the files used
-
-### credit to Udacity
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+### Credits
+Udacity.com, Stackoverflow.com, Pandas and NumPy documentations for various references and helpful information.
