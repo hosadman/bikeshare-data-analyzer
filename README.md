@@ -1,4 +1,6 @@
-### Bikeshare Data Analyzer
+# Bikeshare Data Analyzer
+
+### Introduction
 This program explores the bikeshare service data of 3 different US cities - New York City, Chicago and Washington DC.
 It covers various filters, like a particular month or day of a week, or both or, showcase the raw data should the user
 choose to see so. Also, it shows the different user statistics and the station/route statistics for the cities. It also
